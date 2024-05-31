@@ -1,3 +1,7 @@
+--> main
+--> glcm
+--> region based growing
+
 contents of "main"
 1. Import of libraries & Image read Operation
 2. Find type of the image, resolution of the image
